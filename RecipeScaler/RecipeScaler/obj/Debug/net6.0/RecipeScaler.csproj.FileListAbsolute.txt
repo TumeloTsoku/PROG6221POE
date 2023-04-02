@@ -1,0 +1,30 @@
+C:\Users\Katlego\source\repos\RecipeScaler\RecipeScaler\obj\Debug\net6.0\RecipeScaler.csproj.AssemblyReference.cache
+C:\Users\Katlego\source\repos\RecipeScaler\RecipeScaler\obj\Debug\net6.0\RecipeScaler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Katlego\source\repos\RecipeScaler\RecipeScaler\obj\Debug\net6.0\RecipeScaler.AssemblyInfoInputs.cache
+C:\Users\Katlego\source\repos\RecipeScaler\RecipeScaler\obj\Debug\net6.0\RecipeScaler.AssemblyInfo.cs
+C:\Users\Katlego\source\repos\RecipeScaler\RecipeScaler\obj\Debug\net6.0\RecipeScaler.csproj.CoreCompileInputs.cache
+C:\Users\Katlego\source\repos\RecipeScaler\RecipeScaler\bin\Debug\net6.0\RecipeScaler.exe
+C:\Users\Katlego\source\repos\RecipeScaler\RecipeScaler\bin\Debug\net6.0\RecipeScaler.deps.json
+C:\Users\Katlego\source\repos\RecipeScaler\RecipeScaler\bin\Debug\net6.0\RecipeScaler.runtimeconfig.json
+C:\Users\Katlego\source\repos\RecipeScaler\RecipeScaler\bin\Debug\net6.0\RecipeScaler.dll
+C:\Users\Katlego\source\repos\RecipeScaler\RecipeScaler\bin\Debug\net6.0\RecipeScaler.pdb
+C:\Users\Katlego\source\repos\RecipeScaler\RecipeScaler\obj\Debug\net6.0\RecipeScaler.dll
+C:\Users\Katlego\source\repos\RecipeScaler\RecipeScaler\obj\Debug\net6.0\refint\RecipeScaler.dll
+C:\Users\Katlego\source\repos\RecipeScaler\RecipeScaler\obj\Debug\net6.0\RecipeScaler.pdb
+C:\Users\Katlego\source\repos\RecipeScaler\RecipeScaler\obj\Debug\net6.0\RecipeScaler.genruntimeconfig.cache
+C:\Users\Katlego\source\repos\RecipeScaler\RecipeScaler\obj\Debug\net6.0\ref\RecipeScaler.dll
+C:\Users\Katlego\Desktop\Rosebank College 2023\PROG6221POE\RecipeScaler\RecipeScaler\bin\Debug\net6.0\RecipeScaler.exe
+C:\Users\Katlego\Desktop\Rosebank College 2023\PROG6221POE\RecipeScaler\RecipeScaler\bin\Debug\net6.0\RecipeScaler.deps.json
+C:\Users\Katlego\Desktop\Rosebank College 2023\PROG6221POE\RecipeScaler\RecipeScaler\bin\Debug\net6.0\RecipeScaler.runtimeconfig.json
+C:\Users\Katlego\Desktop\Rosebank College 2023\PROG6221POE\RecipeScaler\RecipeScaler\bin\Debug\net6.0\RecipeScaler.dll
+C:\Users\Katlego\Desktop\Rosebank College 2023\PROG6221POE\RecipeScaler\RecipeScaler\bin\Debug\net6.0\RecipeScaler.pdb
+C:\Users\Katlego\Desktop\Rosebank College 2023\PROG6221POE\RecipeScaler\RecipeScaler\obj\Debug\net6.0\RecipeScaler.csproj.AssemblyReference.cache
+C:\Users\Katlego\Desktop\Rosebank College 2023\PROG6221POE\RecipeScaler\RecipeScaler\obj\Debug\net6.0\RecipeScaler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Katlego\Desktop\Rosebank College 2023\PROG6221POE\RecipeScaler\RecipeScaler\obj\Debug\net6.0\RecipeScaler.AssemblyInfoInputs.cache
+C:\Users\Katlego\Desktop\Rosebank College 2023\PROG6221POE\RecipeScaler\RecipeScaler\obj\Debug\net6.0\RecipeScaler.AssemblyInfo.cs
+C:\Users\Katlego\Desktop\Rosebank College 2023\PROG6221POE\RecipeScaler\RecipeScaler\obj\Debug\net6.0\RecipeScaler.csproj.CoreCompileInputs.cache
+C:\Users\Katlego\Desktop\Rosebank College 2023\PROG6221POE\RecipeScaler\RecipeScaler\obj\Debug\net6.0\RecipeScaler.dll
+C:\Users\Katlego\Desktop\Rosebank College 2023\PROG6221POE\RecipeScaler\RecipeScaler\obj\Debug\net6.0\refint\RecipeScaler.dll
+C:\Users\Katlego\Desktop\Rosebank College 2023\PROG6221POE\RecipeScaler\RecipeScaler\obj\Debug\net6.0\RecipeScaler.pdb
+C:\Users\Katlego\Desktop\Rosebank College 2023\PROG6221POE\RecipeScaler\RecipeScaler\obj\Debug\net6.0\RecipeScaler.genruntimeconfig.cache
+C:\Users\Katlego\Desktop\Rosebank College 2023\PROG6221POE\RecipeScaler\RecipeScaler\obj\Debug\net6.0\ref\RecipeScaler.dll
