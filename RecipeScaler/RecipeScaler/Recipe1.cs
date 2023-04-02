@@ -6,8 +6,6 @@ using System.Threading.Tasks;
 
 namespace RecipeScaler
 {
-    using System;
-
     class Recipe1
     {
         private string[] ingredients;
@@ -15,12 +13,16 @@ namespace RecipeScaler
         private string[] units;
         private string[] steps;
 
+        private float[] originalQuantities; // Added to store original quantities
+
         public Recipe1(int numIngredients, int numSteps)
         {
             ingredients = new string[numIngredients];
             quantities = new float[numIngredients];
             units = new string[numIngredients];
             steps = new string[numSteps];
+
+            originalQuantities = new float[numIngredients]; // Initialize originalQuantities array
         }
 
         public void SetIngredient(int index, string name, float quantity, string unit)
@@ -28,6 +30,8 @@ namespace RecipeScaler
             ingredients[index] = name;
             quantities[index] = quantity;
             units[index] = unit;
+
+            originalQuantities[index] = quantity; // Store original quantity
         }
 
         public void SetStep(int index, string description)
@@ -59,13 +63,19 @@ namespace RecipeScaler
 
         public void ResetQuantities()
         {
-            // TODO: Implement code to reset quantities to original values
+            for (int i = 0; i < quantities.Length; i++)
+            {
+                quantities[i] = originalQuantities[i]; // Reset quantities to original values
+            }
         }
 
         public void ClearRecipe()
         {
-            // TODO: Implement code to clear all recipe data
+            Array.Clear(ingredients, 0, ingredients.Length); // Clear ingredient array
+            Array.Clear(quantities, 0, quantities.Length); // Clear quantities array
+            Array.Clear(units, 0, units.Length); // Clear units array
+            Array.Clear(steps, 0, steps.Length); // Clear steps array
+            Array.Clear(originalQuantities, 0, originalQuantities.Length); // Clear originalQuantities array
         }
     }
 }
-

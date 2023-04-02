@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Katlego\\Desktop\\Rosebank College 2023\\PROG6221POE\\RecipeScaler\\RecipeScaler\\RecipeScaler.csproj",
+      "projectUniqueName": "C:\\Users\\Katlego\\Source\\Repos\\PROG6221POE\\RecipeScaler\\RecipeScaler\\RecipeScaler.csproj",
       "projectName": "RecipeScaler",
-      "projectPath": "C:\\Users\\Katlego\\Desktop\\Rosebank College 2023\\PROG6221POE\\RecipeScaler\\RecipeScaler\\RecipeScaler.csproj",
+      "projectPath": "C:\\Users\\Katlego\\Source\\Repos\\PROG6221POE\\RecipeScaler\\RecipeScaler\\RecipeScaler.csproj",
       "packagesPath": "C:\\Users\\Katlego\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Katlego\\Desktop\\Rosebank College 2023\\PROG6221POE\\RecipeScaler\\RecipeScaler\\obj\\",
+      "outputPath": "C:\\Users\\Katlego\\Source\\Repos\\PROG6221POE\\RecipeScaler\\RecipeScaler\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "net6.0"
