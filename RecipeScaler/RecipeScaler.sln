@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecipeScaler", "RecipeScaler\RecipeScaler.csproj", "{6FBF237B-FD7B-4B96-9747-9D50DF4F142C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecipeScaler", "RecipeScaler\RecipeScaler.csproj", "{6FBF237B-FD7B-4B96-9747-9D50DF4F142C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
